@@ -1,6 +1,6 @@
 
-# Shiny Tutorial for UBC R Meeting
-By: Amin Adibi
+# Shiny Tutorial for UBC R Meeting for Aida
+
 
 
 
